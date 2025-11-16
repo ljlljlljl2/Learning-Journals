@@ -22,3 +22,7 @@ Welcome to my CP3402 Learning Journals.
 
 ## Week 7
 [View Week 7 Journal](week7.md)
+
+
+## Week 8
+[View Week 8 Journal](week8.md)
